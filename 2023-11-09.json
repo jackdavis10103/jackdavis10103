@@ -1,0 +1,26 @@
+{
+  "name": "Ivan McCoy",
+  "age": 38,
+  "address": {
+    "street": "Ucca Turnpike",
+    "city": "Kujetwar",
+    "state": "LA",
+    "zip": "53570"
+  },
+  "contact": {
+    "phone": "(542) 887-1308",
+    "servicePhone": "800153865"
+  },
+  "birthday": "1975-12-11T23:45:02.292Z",
+  "ip": "20.140.233.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Mevod sujofej fu wonilsa faz fu rob osa warciv susec mutla vifartuj vuoz. Jecugco ci vawfucdi heghacpi babaf tabwug itcav gelteic vigejo re so tar ito. Rozma tetu tarsuk po wadwo fu wuz enmik sopbahme zaili codfa riezuna ma. Mibinop riwlazzi gavo nehivoh obojunhec cattuwon ce homiv zuham opejwa babe les. Pegrin jo fokra fego ce jufu biwpidi mackaaro zi cefimrek guzepadah cir niesu ozber vinem.",
+    "bio": "Vasmu hotor voimhem gu gulzirbuz eresok pafhokdit afuuku dip ji me visra puwriov ru dulep pukitos do cuzim. Zubuzebu zubtenup fujpid sudecab evalobha ojavo jinapi jun hu ranne fiv kugukcud rebta op. Parsidkes su juise sokkeeg wefizek si vemjiuc ihleoz guze belka coat butesdug hajju ofzi jecu tafgeheb. For an natpuwiv kaznote meno dewamuet baza wo cunepfo biv erilod pi bob nadac vonha suhcode gijzaza. Tujlelot sibiglec epla soju la hikpo mecfebuv ivubodip ku re vok jacoki mozi wiklohu pir imood."
+  },
+  "apiKey": "a1f2a6158e765c13593f33e5026d17a8b921ca2f6a85ea110804a9b182cf4f47",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
