@@ -1,0 +1,26 @@
+{
+  "name": "Janie Edwards",
+  "age": 55,
+  "address": {
+    "street": "Evuzac Avenue",
+    "city": "Hutoged",
+    "state": "IN",
+    "zip": "43537"
+  },
+  "contact": {
+    "phone": "(731) 588-8731",
+    "servicePhone": "800972479"
+  },
+  "birthday": "1971-10-17T09:22:47.460Z",
+  "ip": "66.194.107.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Sejpaz mo cake houfke wilekbi dow la dew hososowim bofoti allu ga kunbo zevuli. Ruile he vojah acu af mopnahso uk sisaaf jamipes ubuibepit wahedep wozo izaad jato vewaf. Wahhu obbaziko apci ulva hoz es uveniob he sare jos zuw jun.",
+    "bio": "Ceal oru diwku opovu im posfelun weg ranuv degazi vimcus gizted cak dekgase. Ju sozu zihij imimo zab wi giiz do eg bah ve direpfal. Vipeg jechum bih bolubaza jepna muha te ked vez lidugul wotkeku jacpefag oso kosiog jeji tebep ne."
+  },
+  "apiKey": "2340aa8b3908918b693e6e5bcc3c690492ca8624a45d92894b0e44eb9ad4b95c",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
