@@ -1,0 +1,26 @@
+{
+  "name": "Richard Snyder",
+  "age": 38,
+  "address": {
+    "street": "Geboco Mill",
+    "city": "Jaasmim",
+    "state": "NC",
+    "zip": "88731"
+  },
+  "contact": {
+    "phone": "(404) 803-6826",
+    "servicePhone": "800423766"
+  },
+  "birthday": "1963-11-24T10:40:14.197Z",
+  "ip": "119.137.72.105",
+  "foo": "bar",
+  "profile": {
+    "about": "De enaupbup zev eba bublan taspin ez nivve man febe gakse awtoeni. On gej redva geme debliflen tot pud kail bod tota orufure za ukiag sop ed. Kiezav sudi hub tig mudtej bu ze imevahere nejwo wiboribe cor aw va tek jil vo hiczanfiz.",
+    "bio": "Ejram linnir echogne efomuoh mima fi midhasru ma ititoda mucik ogwoco vohezimo iterezen. Vuwkig agaru bom gij gi vato koffacga bupdov somwewvir las etodelew ipu ve kiru bunivep ulgifis. Vepcacbaf leb us som cipjefnon wacivim kokfivez riltipi kiabhip jukrom mirhufvi vaeleij ruh idehe cakopwe. Huntowud to nijoim cacij dewvulec nezoiv wub fon depus eheobaja cadje jup etager sopmerfab vadozauhu ave kut dovguvsug."
+  },
+  "apiKey": "b15888b8da7f6bb9624eb350ea544dc693a98c94b91d801e84f12b993cb14627",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
