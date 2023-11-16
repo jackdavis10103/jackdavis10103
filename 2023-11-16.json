@@ -1,0 +1,26 @@
+{
+  "name": "Luke Buchanan",
+  "age": 24,
+  "address": {
+    "street": "Ulaper Ridge",
+    "city": "Erivalik",
+    "state": "VT",
+    "zip": "42689"
+  },
+  "contact": {
+    "phone": "(821) 447-2324",
+    "servicePhone": "800687544"
+  },
+  "birthday": "1971-12-11T10:26:57.166Z",
+  "ip": "115.204.68.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Celadu duli gozgu lemog sibub suogu mafug hotelo liij rit bip lorih uvrit. Nimehac lod sudofbe culor hofi covjanog zeh rampub viz bolwoj cohzikfe hebsaponu reg isukfo jomri za dummir. Bancut ojluke ovjo re ewule dacfefiw igezo totumta bikage iwcacove pu epuzauv ud ajuake ce. Cezbac mazok lu deov datij an aherabwah jaacadez az diwaz cosfo raso.",
+    "bio": "Zih su la ocma dimsocwaz je ufitoec palozujaf uzlaj nira behi ri cizhunoj fukawliv. Ihmuewi adipoc oj cewagu jipbu vipbobi sif ohu hepizoluw kularpeb akkullev doadeeta so pikbuhup. Cenpoto fu no rifkaput eboice wecafoled gecfoj nucgusac ho ze tisoh ses rijegoko riv. Cub bagtem meg uzamujzus sab wu japzo viupbu gasoc ru wirezgoj gujlef hupol eke sik hir eji cil. Egositi huwlethih nolmub vof fulmikfe wewod ine edmi ohiab ha vegjeg dajus. Cottak gaflat juspu zu tizcib kiet uhwifa viru jijke be ohaeku pam avawew."
+  },
+  "apiKey": "d1e2da84f99ff3067b10b2a75e1577f0c67d8a242a1b07cd55c846ca9b1387ce",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
