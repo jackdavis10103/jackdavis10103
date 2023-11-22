@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Cooper",
+  "age": 58,
+  "address": {
+    "street": "Gucru Glen",
+    "city": "Apietielu",
+    "state": "IA",
+    "zip": "16486"
+  },
+  "contact": {
+    "phone": "(555) 515-7700",
+    "servicePhone": "800689511"
+  },
+  "birthday": "2000-11-29T00:08:28.204Z",
+  "ip": "143.149.144.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Cinovvoj sape revowgi re uj vulwi egwaw gijbupnuz tov kecogtok uwdijbeg ujte sav gofpukaje bomvu. Reevli pawjecor kanoguna jivul be ezuleso egsojwu fogapke pazodi hahonuf ickugi am ecof hakki idsu. Supnul piv uvasij milod me beghew keilafij baohso cigmep weaw ogdutap nulfoj akbi vaonugi sofejzu unriwat mavala cimatuz.",
+    "bio": "Etjezi wicwaw sapik opeho iki wifgopuf ibefiba nuwome nuc cefvave co tufcis zebgasad. Ilfuc if woli weiwu vaparom isnede huhbeh go er pu da mo lev asajoase ubnas duwub. Locca taguj jagcac cinne vuv bahili feigape rajhereh vebu lifipda toul nezuduz cewnakpa lov."
+  },
+  "apiKey": "b466f39c67d6e55a84ca14542d74e94dde377371d0481c289d268c087663d412",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
