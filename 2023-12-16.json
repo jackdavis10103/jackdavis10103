@@ -1,0 +1,26 @@
+{
+  "name": "Leo Stanley",
+  "age": 38,
+  "address": {
+    "street": "Voal Terrace",
+    "city": "Lusduzo",
+    "state": "KY",
+    "zip": "47063"
+  },
+  "contact": {
+    "phone": "(610) 536-7338",
+    "servicePhone": "800735639"
+  },
+  "birthday": "1983-07-15T08:24:16.137Z",
+  "ip": "252.229.233.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Nis majozakop gademoov puj lucagor na gisi vu towoagu sobbevog agvam cu jicgi. Okcirmil jam evro bi gojej alwecvi romuole ofahuj gur ped pozab totse ozwuzfih ilekitwu aleiwezu huduze di. Bog os aha juppigif huoftov kalok bomoh kedzevih dajo azho jam gelavo alo lu bi fumuni mumheehe. Uwnukoz sijwi owoiv muc nunduv datofawo gu kuepojir lu kupuluz sefa inkogog tejfekugo cok mu parahi.",
+    "bio": "Zar golhob woju gaoj ape cozoki lupez sopgegkik emku burecmib sosigi kukpo ba lud fip gikuddi piwuj. Ag lo je lounohe vucodi toc ful nahehulof isetka vozma vimwi kap gusec aku. Hud tomazgo tenulok fopenah jagum od ifer ife ticecsu ajuku amaze ges ew bubzijig."
+  },
+  "apiKey": "a9b34336da93a5a7ee4eb7652d737be7d7551b5b3b77c06122f61bf897d2887a",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
