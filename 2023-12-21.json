@@ -1,0 +1,26 @@
+{
+  "name": "Estelle Jensen",
+  "age": 52,
+  "address": {
+    "street": "Ubro Ridge",
+    "city": "Zifufar",
+    "state": "OR",
+    "zip": "47642"
+  },
+  "contact": {
+    "phone": "(847) 527-2342",
+    "servicePhone": "800456319"
+  },
+  "birthday": "1999-11-01T20:35:35.152Z",
+  "ip": "136.142.201.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Afuvoim cerviraj hetup noehineh ju sozuz naromna umepiknel uw hi on nospiuhi gas rohseveh foce cava. Zib da pava avemi gawospe ramo juofde paco putpigaw asekihra gauhgag sul nofufek coijpa kalfez. Fabu tehanfi dezub vutnuap od fuh vaag ucemo fi tojooj fuiri wazgip peniat bowtaw ti zej ikive.",
+    "bio": "Urtima jecoceta aloumko babaz gessi giwe fuhus wupeli bekmem jusojo lo gomi. Vizgub notedal isepegli onugasbi towmi ji icti lakuumu tajka woguri fuj ina wa uzsude. Ojego tovedi gan tosfusa dufcupoj cu ewi ludozupi jut tuju tedmindem adujir kicuh."
+  },
+  "apiKey": "0c84b83a6b3a578922a4f1a83d41a1bb70f46e82fef642a469993920a3b0baa4",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
