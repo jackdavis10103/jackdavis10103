@@ -1,0 +1,26 @@
+{
+  "name": "Maria Owen",
+  "age": 42,
+  "address": {
+    "street": "Erafa Path",
+    "city": "Wolpavga",
+    "state": "VA",
+    "zip": "25252"
+  },
+  "contact": {
+    "phone": "(971) 257-1810",
+    "servicePhone": "800512717"
+  },
+  "birthday": "1962-06-13T12:18:16.253Z",
+  "ip": "125.177.188.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Gadis mowice kupjo rubej joovi uje el to kunikoru luac gu wer seusli lisa pinzin sommib. Eplo rurvuv keftora mikrep luvuci mugzudro hibalhis ri hebupiata he cunjahak ecade. Puhivta mi gu rotu kezugot baedol gasemol juase gafrejez asvuc mar ezeneram asduv vol. Pi comuhka dinak bazevo arunijar lajaca tochanpe ugasil tog zeho egseg co tone jonhe ofnevu. Owwobje al ikote fifi ta fer ziijari zu bemjoobo ivokta ra im fukadfuw ke ejaawfib eladunic. Ogti se be sabsin sakiig jud cag muw zav ano mujog vaogi nel juobdec kipe semuto popan.",
+    "bio": "Kual bahogoler ze rav fozojdu guz bodgok uju nasic kuahbak sef vondaowa vodi. Faor hot maed ro lecubjaz baulaudi osi uk vo wuw dob raazdi witadoelu jo vemrefhil. Sedulaguh fiv uf cacte kabra bet nitjejhi zenheldi isocotnil nis ebvuhuj bekfuvge covu ir cafed. Niincid godhi wipeg uwvi ve fagpuweg jokod eniga orukidto zunduf inenonet ofipanfo gakmih. Mut ohlovi ovona cibew dopsi pilwo afa fid jamot ra ibwemmu zukbizgu va. Hopso pecogbac wivho epagorof huncuv towgijfun uzkec cuwvuwu div ziirmir mivavaj sarofow. Togjaroh ti ofpese puzvo waozowu jiowcam mufi dovorelo wir ustegvi dakug emucu ubivo vumzos ol wo nu."
+  },
+  "apiKey": "aa1ba91ac579f54877c8cb9d7c9a1cfe6ba823881fd6b78ab13d22a769baf862",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
