@@ -1,0 +1,26 @@
+{
+  "name": "Jesus Harmon",
+  "age": 36,
+  "address": {
+    "street": "Egewo Mill",
+    "city": "Konsema",
+    "state": "OK",
+    "zip": "73756"
+  },
+  "contact": {
+    "phone": "(514) 574-7566",
+    "servicePhone": "800452312"
+  },
+  "birthday": "1994-06-23T00:48:13.449Z",
+  "ip": "227.46.64.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiiji aba hiku do diheffoc waheaga imapica ebeci diija pidiv rowsu kowojdu ginzag. Zan perkoko basol usuavmet lenaw de ibugubji azmih koel huama puvo siusa zelfof zeijera dusucon veriglih obudi dej. Edda dumhe pufuc fauh ru kafewju ni tertuz nuvsilvo darzo liukde gudzuveh co. Zejpa devrafuhi urasosuda lavguztid miuvi ehu ehedid dasguh senepe elrudub ovnesma zo kartif doccimidu cozra.",
+    "bio": "Ihdoh ju livunog kugtiva vu hubidic fun sodu lis mepave jalak piro higzoima. Sogveeg koim ninwoma nirool bewlefe he awobac jib jaam vanfe emopaz jes houso nanablow. Virkiad domjo al hulu vih gohda semar radatah ma ansovhin mir juilepaw gawgafa cimmu."
+  },
+  "apiKey": "2f0537b69baf0d5cacd5f441b9304d2029aabaaf53ba8d70d1657016f2ef6899",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
