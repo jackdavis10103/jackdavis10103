@@ -1,0 +1,26 @@
+{
+  "name": "Edith Parker",
+  "age": 18,
+  "address": {
+    "street": "Koofu Park",
+    "city": "Banaza",
+    "state": "IA",
+    "zip": "98525"
+  },
+  "contact": {
+    "phone": "(384) 476-8946",
+    "servicePhone": "800367559"
+  },
+  "birthday": "1983-09-25T17:08:04.396Z",
+  "ip": "149.96.132.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Suuw don api wabilot uke guret sal allur nuj hetrakow za lefpit nehjed vouhero vewuci. Boub uf ehejumic wi avko bunu dodo fovul nul ari su hagouf. Gonit rowhofe musreb von ivual ebosatalu ro diz ga mopzu gocowoh lukzom ogufi huvez cenebub nevucpas zoh. Ne ar come febubcaf inibo copsentuv vuzso zeljugo or rasjerzo upaojeli rig josiduuk cespuwok wuje faucahu gada. Moctes favol uckuh suwsorow dur ina vilvu nakfawa korwupje sasat oru kibdidre. Nivpotca du viri liep detac gupa nah uta wunez soob ehze mocfon kawapev su kak rebig.",
+    "bio": "Esuijfu zik kovego lam udo julu gogvuh vujubu veawofo doglu co mu rite vu vaztonafa gilniban. Vejihas ru vuldutfa ze jougri ahi ocuva cikaz cej wohijda ulate ma. Owdacla lijhuwob rep wos setac suz ni ep ono laresu hiuteso zebtu. Paw jek zus dujud su jeugpo jah latjudlit diosapip em pisit fi sos ajiacanag cabodpav ul."
+  },
+  "apiKey": "56b45a4b8fe7f123211cb2bad90d37fc065210e323d1def402eb1b9898533352",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
