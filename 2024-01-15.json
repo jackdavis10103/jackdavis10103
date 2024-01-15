@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Mitchell",
+  "age": 58,
+  "address": {
+    "street": "Osvul Extension",
+    "city": "Woktopga",
+    "state": "KY",
+    "zip": "12524"
+  },
+  "contact": {
+    "phone": "(309) 678-4659",
+    "servicePhone": "800684336"
+  },
+  "birthday": "1981-09-20T21:57:21.300Z",
+  "ip": "105.9.226.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Va begbo ok vujouj me ja ofuemejam egufe gendefu fedum dakerem pu fajdo un hegepmat zudofla pi ciibeite. Ricor ga coporofi vutussud hecve bot ra hog ce ga fef zas zacbeksig datad muwnal jomkigki bavagac telde. Imida tusiniiri gimiuj civlubetu fe zok jud fuh hebben fewjic boedere zirmen.",
+    "bio": "Zafmun ut lawkovin uko cir dopre sichup akagamke esbi fo fiwpotket fuuffa mo. Talzas bo fumedal jifif givgastu kepdib paclesa jacboljed ov vikwo fihimked niudoge kecu so. Ekigi bo mokajuzu umzopvan jaip sol deajokov tuzlavam me miolaid ef toev mekzehrob."
+  },
+  "apiKey": "0810fcd9b8370fd2141189b9c23f9d8f18c139ee956b54d4ba68a18093e51dac",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
