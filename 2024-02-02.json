@@ -1,0 +1,26 @@
+{
+  "name": "Laura Ellis",
+  "age": 60,
+  "address": {
+    "street": "Fues Court",
+    "city": "Niotocah",
+    "state": "NY",
+    "zip": "12653"
+  },
+  "contact": {
+    "phone": "(841) 754-9491",
+    "servicePhone": "800975996"
+  },
+  "birthday": "2002-12-14T19:36:31.263Z",
+  "ip": "231.229.252.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko ofu banon wumhaiv tul fozani hul sefepjiz ni mo ejre tin ga mo fu zorhopuv bag. Nep ofawu gazub jum uwig bahkov ciwemeba otukizhar iccok iwoketdi daecipiz veh is ijo fu ram pede. Nizibwa rimref rouv voonewo zu vafhuwu ka ibbiehi ju esnok ziaruis let detbirah omuomuzid opefan fasata ret. Rutero tukud fookbi hen jatbifa donelun focziko mut nutow zig mu siupi ron johaf huiju. He dezjut zoucala newabo disip erzig ses jit taha jodoba iwa kige zukwel dajza pussiwa.",
+    "bio": "Lifipwip fefa batobmu kedzooko ciglober hetosel evpekon we nur geik lubdi tih le reres. Aknuf hi ri ninewheg rijujcog zagutihov he hotnecteb kajtoenu gi unauriuf vawu ti teb nu. Si awi oksedek puza avne tusalez utsun favabvab ralive sow jajju mozolawi un."
+  },
+  "apiKey": "778f156672d21dff33fe95d7fedbbbf75fafbea0be3cf0a71fcb8b4390780371",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
