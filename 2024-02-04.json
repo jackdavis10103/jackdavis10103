@@ -1,0 +1,26 @@
+{
+  "name": "Alan Ramos",
+  "age": 21,
+  "address": {
+    "street": "Pemuh Way",
+    "city": "Dufocvun",
+    "state": "IL",
+    "zip": "34731"
+  },
+  "contact": {
+    "phone": "(343) 778-2135",
+    "servicePhone": "800991456"
+  },
+  "birthday": "1968-02-19T20:56:52.669Z",
+  "ip": "126.77.122.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Orilolvi roorewow rohiw zuti gaace hesowem sekve le ed ib uhuh om nupevro ifiselto uwpetra jonefwom noudu. Win ludwawu er herikas emene ganziji sekwu ji bi rad kat fugorow pif suddoazu zuonu. Addaif zu doduw pumwov dofser of el ni tulvabme vi mawoj tajfob mulokfep mu jijkufili capwit womgi hegu. Sauzo ce asu ijzok barlobun esvag agdu ujub mubewi duvida nil suhi firuj. Pacip ku pi duz totmu sejiilu de ibu ekkemij mivzoda temo la vegari wa ili hait. Onitojup vup hu ziom gesap futro ato kopolumup rofsizid oc jol dawmaba idewusko ejju ca. Kawoswup wuceir likba labtil uvnuk essut sukvov zeucamo tu wigel toar ehazahap.",
+    "bio": "Paetbur vohza citmep escemka ga ijibul vuh fit wu ojadivlog reri suop pelocek zoaf tezfilvin coc ipedarivo. Riwipmov ug otoamce tirpa wer pusub apdeboj bidvokte mimsah hehakzo de ore currol bafibid. Uje foncas mitifej nudedru cufbavbar vekorbof medfathol fem fowowcas ok focoblud hu ci taanuwu izzidis juw ga."
+  },
+  "apiKey": "12ec550c727eabd3dd6ee3f8b3a109a737c7b8d3121797a9374c39d13fa6c9e0",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
