@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Scott",
+  "age": 38,
+  "address": {
+    "street": "Gazon Avenue",
+    "city": "Mizobni",
+    "state": "AR",
+    "zip": "24069"
+  },
+  "contact": {
+    "phone": "(518) 821-3234",
+    "servicePhone": "800143966"
+  },
+  "birthday": "1984-03-29T02:06:10.792Z",
+  "ip": "83.33.250.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Ace tu dizaguza hewo rafoj suru si voctifgo ovgam minitaeh nacwunzu voesa tataf abo geljot nizosap. Dufica sanfemez vezuni neamu im ji vef cod beluri kahwe kit gafim laateku medzunac upizapse esfoc. Nuv is lemifu sedib gashab mepa vo taszawoj zabuz jihken dicmaeci dibome apipehub.",
+    "bio": "Liwgo kevvu ima viz dunwa siwsaknen gesnu se wumgutsiw uloh soowvi vu cojegef wiwgibif ik cebafvud zaduc. Zem tob abe kugu ija obu kirhaj wu fateno uraco iba merikdeg oce ariza. Te tusfo racegu huc nedette wuil ehonoso naom dencu efo hedud ceecihan. Va voejide pekuf gugkarol corec hepfiucu detmu pefufpom rac figinwe tudjel giij si zuf befsez hi jivug duwuwkah. Gupat va cezaba vezurto fukonguk owilewef bawko iwaowa vosjib vur inbe zu mi wezturmof abaniptut bamacib."
+  },
+  "apiKey": "58a42d356a935bd687bfadff6efb1550f9daf40ae37f913dcfdff144e6153f5d",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
