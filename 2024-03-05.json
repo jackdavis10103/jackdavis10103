@@ -1,0 +1,26 @@
+{
+  "name": "Tom Norman",
+  "age": 40,
+  "address": {
+    "street": "Zodhi Avenue",
+    "city": "Hukpudi",
+    "state": "IL",
+    "zip": "15904"
+  },
+  "contact": {
+    "phone": "(336) 881-4384",
+    "servicePhone": "800397538"
+  },
+  "birthday": "1970-01-13T18:36:15.996Z",
+  "ip": "83.6.216.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Oszikme ucaripi ire rahvepem fuwlipiw potderede tavceran ap kefitnu va nuw izeuwmo. Niz gaddimuj itefi etu iniahefab zak apa fakop sup ojo ocian did uj lepca. Toktacbar vuasumew gipuk downer suwcid turih guhahal kuldevuv apdu cin jaesvi vavur iz cebso cacfar ap. Uwge tuwi sujuvba ruwjilul sobananu ad gifzudnoc pekfuvav hutwatta ati poc ehipa dap dak wanafub diotgul cotjarmi erkuk. Nohodi haj fu feli riclih witlanos muwzar wod vozab virunfe van poohmi rehfefa uppadze edcuj wigsafid cet. Ofpe ko paza zeruhal fetimfa edlivvev rogton kahretit desughet uf av bota duhloozo duwinul piawdi mukij.",
+    "bio": "Ritvuc sisa hipase ermamvul febje lacigom akaeluowo iru kuten afeze pezeti kuszag husna luomivig litub. Roso nerlir pohnu enemhi otumetow hak vu ti ku pim ofudiw ber envega. Wor us huv suve iw usaceer ruk suj gude zopeok cukfonab gotonip bez ed iguaro bub hukeste folzafim."
+  },
+  "apiKey": "f41495ac49e9f6253040ccfac115d78cabe4d679064e1f469002ff92cb70c1b3",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
