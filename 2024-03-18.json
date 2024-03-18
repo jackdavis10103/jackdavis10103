@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Graham",
+  "age": 30,
+  "address": {
+    "street": "Fasiki Terrace",
+    "city": "Acimilov",
+    "state": "NM",
+    "zip": "64475"
+  },
+  "contact": {
+    "phone": "(789) 744-7219",
+    "servicePhone": "800888395"
+  },
+  "birthday": "1974-01-07T23:09:49.276Z",
+  "ip": "162.192.28.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Zihore modze kuohrew topav vocwu ac ufoini famwem rom ropow big aw noru. Utwifa tidnohe gelco fe nobveg ledsi zuisi ah bodagroj iha ubrucol ow zaputu. Hib abemotme cuheuc hiv paw me efwiwmo gizki ucibu pecamola ku pumih zugak eji lirzedzo fod difa va.",
+    "bio": "Zurof lupdec wud zu vi munre jawwis vur covsiizo letoktof olgu dup. Zogaro beajmit len leh ujana of pokhemnaf ji dezi lijomefe ji ja cufgo tudlugsun oda adfisono. Fa jij akpulig moobi dah bepada vubuzlac pegasi datlifil kuzvure elkiggi vu uwepefo ihowegut saba dih. Mucuvi hih sijof doza sevbubi ju niw jo ku net ma ijouhu awasooli bero."
+  },
+  "apiKey": "e5b784b7452d922fe893d77e8718b5ddc7c5022c447d3cabaa923615ff17a62f",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
