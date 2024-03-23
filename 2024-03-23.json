@@ -1,0 +1,26 @@
+{
+  "name": "Henry Gray",
+  "age": 60,
+  "address": {
+    "street": "Ujla View",
+    "city": "Bonosut",
+    "state": "IN",
+    "zip": "52256"
+  },
+  "contact": {
+    "phone": "(764) 799-7386",
+    "servicePhone": "800819748"
+  },
+  "birthday": "1964-11-30T15:50:50.982Z",
+  "ip": "191.49.166.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Maj faf za hi satcame fewakaz coik pisgaveco dunin jot humpic cij cotu molge puzvel. Zew ufe luusewup bic dec el fiwvobeg wesezis begkubme nekizkus tizbihwob wafimvi wimme. Zej bizvahnu jo za pebdut ir nunpamhim baw cegala zobsap kasep mo. Kocve zahe vu ra pekno loawpo babiciw iw an bojicofon keligim uho pil uhumowew egleb joosna coiwigo wubupaw. Hurar ivudud kufbob kaboevu tezuphek keiralap jib nelatzo kel cij gowrij hap kuwco zu nefa gujilonu huwoc.",
+    "bio": "Rued das basgo ifubaez te su wod enoraoku cazgo vuzdobpaj fahkil lovsede efulakic. Nej asohem uhanuvceb cok kotav tobepi bil lof ruju zepuvufo fov feceto nimwek sariwfej vuvinefet lorado ji. Ufedoplih lak nukvapbav metited kawcuvni vemocnon usfi utbu rijca sa dosamabap pijeralim ro pag. Mo hogajkob otav fejlebso ebikomor ikpaaz ojow markih jeppaco ruve nonguti li."
+  },
+  "apiKey": "42d7d70e74032cc9d6c15c928f9e3f16e3409c385bd1e261c73eaca67d46a839",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
