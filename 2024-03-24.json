@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Becker",
+  "age": 63,
+  "address": {
+    "street": "Pood Loop",
+    "city": "Bezikod",
+    "state": "AK",
+    "zip": "15549"
+  },
+  "contact": {
+    "phone": "(311) 497-9436",
+    "servicePhone": "800433453"
+  },
+  "birthday": "2002-01-28T18:41:42.853Z",
+  "ip": "36.106.36.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Kar butu but vu ti tipsuma hejad zim sofucu rirmouri nuwzazot bud doro guhuwgid. Ecni ki coror eje wec od tohose finka nifiw vejfetbi jo teanvek belibumud dejvorco wuli uvu robku. Lasducug dohif uzle sadoldi cejihes elcer ipa hosalwu igugahon vo cukaewu fosu ubnav kaski huki fi.",
+    "bio": "Vigoskus sohu ren cerdodic gu nuruti limzej jukinab ico etiubje viv ofuguf zaj sulofu da besmer dib. Gah buvurow vuda totuoj afmit evho suohu jurcasac favron ze mo tebuje om. Ofni aplote woiruda zibkoze pojse nosdajwut akipus citcu ic kila rupun mip viroju gidevu vifawur su tuopa durano. Mokmu gipku uni up afreuk ac ap urobnir cu mam ad jetom. Pume gaoba edu lop hesjaero girfolnu sesfome bazog gopdos ko nun liciwku forzo ono latba mebgoggit. Tus nun gi ab muariba vu jerudpi wofoivu zali sa ikmiba ohe juhumgaz rumac zagfu ifbu. Paizobo viwalev ro huekbo oloeba puada rem milto bevsi ro pebu lam mihzaz."
+  },
+  "apiKey": "a32e00af4a3580ab41caad06795c52031c03d23aabfad0df5d67078d5c02639e",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
