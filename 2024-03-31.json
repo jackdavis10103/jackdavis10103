@@ -1,0 +1,26 @@
+{
+  "name": "Cecelia Wagner",
+  "age": 38,
+  "address": {
+    "street": "Raru Manor",
+    "city": "Pekokdu",
+    "state": "MI",
+    "zip": "23159"
+  },
+  "contact": {
+    "phone": "(841) 594-2425",
+    "servicePhone": "800733624"
+  },
+  "birthday": "1987-02-26T08:32:35.817Z",
+  "ip": "69.45.224.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Im edfuv pemkikmu javmo zawi buuvaoge biswop gi iget jofeg cetve sol wogtinjir welni tifsoj. Ja ipe gezgu ficaj heiru ala ret komenhe kup pi udvutna vuvfocpih dokbi odrohero hozhum. Voreboj zovezobi ache uv adi tozbel lidmozih vu bowmo pennoda ate dig co bumejfi upouduhel.",
+    "bio": "Ede guk kejes toamvi dapwewo vecum viute kusowki mehtin ra elvezge boviwir vier pegu. Sog zawaoz gujojo omrizsoz le jokkozob cusvovzac ade ku otvavos mu wotpavlo sobiluumi bucko bi omeimubed hife patgago. Vejunzep je ig uriavi hotej fu rigalri goh notun lapabenuf etihez mefte bemenabo softasaz cocewu se ke."
+  },
+  "apiKey": "a4a51b5c664d9ea7ac4e9d849b28d4877a616793293cbedc8446fc09c568d2ef",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
