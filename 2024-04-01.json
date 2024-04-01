@@ -1,0 +1,26 @@
+{
+  "name": "Nelle George",
+  "age": 26,
+  "address": {
+    "street": "Zitsa Mill",
+    "city": "Temkudle",
+    "state": "IA",
+    "zip": "95188"
+  },
+  "contact": {
+    "phone": "(211) 482-5969",
+    "servicePhone": "800516676"
+  },
+  "birthday": "2003-11-13T13:36:31.309Z",
+  "ip": "236.22.147.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiwejebu olas woge gactamuf oku def feot hej poap zoj riwhal wen rohno giwijor bu lohi zewgob. Wetfegda weji noarkul hi bunneboz rocrubru mav beko efkan naovde ci wojacwu makinge huv safsi pajdav uve. Tu gi cemujhum houkoozo lararez osecko suj hegah tihutgi teabo bepjip bab bohnolar. Sipar lukowa ra algemeze tevgar odefecu le vopa ni asudupnob weci bu.",
+    "bio": "Fesah li wit es zoru ebockos innanas luz mon rolzikik hofwe zido. Sonhoelo obditepo dohrada aliis kapuvnad tibfukme su obu va tu ibaje obseza wij. Cuwo ibesu towadbe kivjot ro ko baddih tudepze goz wa po fu ojamup ca oruza utuze otzanede. Pu ov joj rewo kuterawo usnab nadto re wej nizacpom bor kegieh suwusah imtozfun picdufrav. Wawmunemo naw sumumu astuwi woj babitbu niado ushub ohe jomhehu juta me zi icieme erwuf ne. Gucniti rowekusal loni jeelokub sote lombeteg futowahal rul cizo hajfutmut mi vospagen utaleus gat."
+  },
+  "apiKey": "c9f6f3ff49d29d5536464a7168d6c40732637e3ec9a63e77c159d602c19389f0",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
